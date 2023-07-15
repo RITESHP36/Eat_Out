@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/Eat_Out/static/css/main.687428f8.css",
+    "main.js": "/github.io/Eat_Out/static/js/main.0e261b86.js",
+    "index.html": "/github.io/Eat_Out/index.html",
+    "main.687428f8.css.map": "/github.io/Eat_Out/static/css/main.687428f8.css.map",
+    "main.0e261b86.js.map": "/github.io/Eat_Out/static/js/main.0e261b86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.687428f8.css",
+    "static/js/main.0e261b86.js"
+  ]
+}
