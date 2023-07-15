@@ -1,0 +1,9 @@
+Tasks to be completed
+1.Burger Menu
+2.Search Algo
+
+Future Additions
+1.Book Now page
+2.Cart System
+3.Animations
+4.Slideshows
