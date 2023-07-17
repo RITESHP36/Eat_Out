@@ -1,6 +1,6 @@
 Tasks to be completed
 1.Burger Menu
-2.Search Algo
+2.Search Algorithm
 
 Future Additions
 1.Book Now page
